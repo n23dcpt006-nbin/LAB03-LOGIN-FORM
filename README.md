@@ -27,11 +27,10 @@ Dự án sử dụng HTML, Python (Flask hoặc framework tùy bạn triển kha
 3. Chạy ứng dụng:
   ```bash
   python login.py
-  ```
-hoặc file chính mà bạn dùng để khởi chạy server.
+  ```  
+  hoặc file chính mà bạn dùng để khởi chạy server.  
 
-4. Mở trình duyệt, truy cập địa chỉ (ví dụ) http://localhost:5000/login để xem form đăng nhập.
-5. Thử các chức năng:
+4. Thử các chức năng:
 - Nhập đúng username/password → được chuyển đến dashboard.html
 - Nhập sai → hiện thông báo lỗi
 - Bỏ trống → hiện cảnh báo
